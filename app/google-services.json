@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "738485281643",
+    "firebase_url": "https://activities-3c8a5.firebaseio.com",
+    "project_id": "activities-3c8a5",
+    "storage_bucket": "activities-3c8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738485281643:android:bd52f3ecfda4c187",
+        "android_client_info": {
+          "package_name": "estacio.com.estacio_nov15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738485281643-t7sif140231i376ct5m86efcep5ultji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "estacio.com.estacio_nov15",
+            "certificate_hash": "6ba59f3755925b87a566e4383869d15b303a0c05"
+          }
+        },
+        {
+          "client_id": "738485281643-00i20t426ksr2dr91mdhg9u4eq906gnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-vnv-eIc_J0XDt5Z7Ss3CW0Cq9q7EuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738485281643-00i20t426ksr2dr91mdhg9u4eq906gnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
